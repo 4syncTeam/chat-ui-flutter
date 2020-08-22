@@ -1,16 +1,13 @@
 # chat_ui
 
-A new Flutter project.
+A Flutter app to create chat design from pintrest.
 
-## Getting Started
+## What's the design?
+<img src="./screenshots/design.jpeg" width="640">
 
-This project is a starting point for a Flutter application.
+## Where are we now?
+Currently we craeted first page of list with a DUMMY_LIST and random number of messages but it can be synced with API.
+<img src="./screenshots/screenshot1.png" width="320">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### refrences
+- Link to [Pinterest](https://www.pinterest.com/pin/4785143343926955/)
