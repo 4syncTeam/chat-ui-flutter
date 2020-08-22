@@ -6,7 +6,7 @@ A Flutter app to create chat design from pintrest.
 <img src="./screenshots/design.jpeg" width="640">
 
 ## Where are we now?
-Currently we craeted first page of list with a DUMMY_LIST and random number of messages but it can be synced with API.
+Currently we craeted first page of (list of chats) with a DUMMY_LIST and random number of messages. but it can be synced with API.
 <img src="./screenshots/screenshot1.png" width="320">
 
 ### refrences
