@@ -1,6 +1,6 @@
 # chat_ui
 
-A Flutter app to create chat design from pintrest.
+A Flutter app to create chat design from pinterest.
 
 ## What's the design?
 <br>
